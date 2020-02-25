@@ -1,0 +1,11 @@
+{
+    "name": "alex/mylib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "ayaroshchuk43@gmail.com"
+        }
+    ],
+    "require": {}
+}
