@@ -7,5 +7,6 @@
             "email": "ayaroshchuk43@gmail.com"
         }
     ],
-    "require": {}
+    "version":"master",
+    "license": "ALEX"
 }
